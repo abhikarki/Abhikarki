@@ -3,7 +3,7 @@
 <br/>
 
 <a href = "https://www.linkedin.com/in/abhimanyu-karki-957a791b0/">
-<img align="left" alt="Abhimanyu Karki" width="22px" color = "blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>
 
 
