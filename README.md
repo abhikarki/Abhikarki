@@ -5,4 +5,4 @@
 <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a></h2>
 
-![Abhimanyu's github stats](https://github-readme-stats.vercel.app/api?username=Abhikarki&show_icons=true&hide_border=true)
+
