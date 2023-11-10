@@ -6,4 +6,3 @@
 </a></h2>
 
 
-[![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhikarki)](https://github.com/Abhikarki/github-readme-stats)
