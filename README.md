@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 <a href="https://www.linkedin.com/in/abhimanyukarki/">
-<img align="left" alt="Abhimanyu Karki" width="22px" color = "blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Abhimanyu Karki" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(31%) sepia(100%) saturate(3938%) hue-rotate(189deg) brightness(98%) contrast(92%);" />
 </a>
 <br/>
 <br/>
